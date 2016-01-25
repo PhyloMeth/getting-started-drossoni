@@ -1,0 +1,32 @@
+Passo a passo primeira semana
+
+Comandos importantes do Git:
+
+terminal
+ls
+cd desktop
+cd PhyloMeth
+git clone https://github.com/PhyloMeth/getting-started-drossoni
+ls (olhar dentro da pasta do desktop)
+
+* Dica: cd .. volta para o desktop
+* mkdir = make directory (cria pasta)
+
+cd getting-started-drossoni
+git status (status do file dentro do repositorio)
+git add (tells git to add it to the current branch)
+git commit -m "I've solved this"
+git push
+
+Atualiza a pagina do git e verifica as mudancas
+
+No Sublime, criei um texto "my first week tutorial.txt"
+No Sublime - selecionar Project - Add Folder to Project
+git status
+git add my-first-week-tutorial.txt
+git commit -m "My tutorial on Git commands"
+git push
+
+
+
+

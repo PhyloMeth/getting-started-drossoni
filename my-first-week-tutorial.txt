@@ -27,6 +27,24 @@ git add my-first-week-tutorial.txt
 git commit -m "My tutorial on Git commands"
 git push
 
+Se alguem quiser colaborar comigo:
+
+a colaboradora também tem que ter o repo clonado 
+
+git pull (mostra o que foi adicionado)
+faz as modificacoes necessárias
+git add (nome do arquivo)
+* Dica: git add -A ("all" se estiver trabalhando com muitos arquivos)
+git status
+git commit -m 
+
+
+
+
+
+
+
+
 
 
 
